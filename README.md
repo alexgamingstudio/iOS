@@ -20,7 +20,7 @@ Kein Spam. Keine Werbung. Keine Anmeldung nötig.
 
 ## 🟢 So funktioniert's  
 1. Klicke auf den Button:  
-   **[Jetzt abonnieren](https://wa.me/49XXXXXXXXXXX?text=ABONNIEREN)**  
+   **[Jetzt abonnieren](https://wa.me/4917666381193?text=ABONNIEREN)**  
 2. WhatsApp öffnet sich automatisch  
 3. Sende einfach das Wort **ABONNIEREN**  
 4. Ab sofort bekommst du täglich alle iOS 26 Updates direkt in WhatsApp  
@@ -35,8 +35,8 @@ Beta 6 (Build 21G5302c) ist jetzt verfügbar!
 Du hast Feedback oder eine Idee für den Dienst?  
 Melde dich einfach direkt:  
 **Alex Gaming**  
-E-Mail: team.alexgaming@icloud.com  
-Website: [alexgaming.de](https://alexgaming.de)
+E-Mail: [support@alexgaming.de](mailto:team.alexgaming@icloud.com)
+Website: [alexgaming.de](https://github.com/alexgaming/)
 
 ## 🔐 Datenschutz  
 - Kein Tracking  
