@@ -35,7 +35,7 @@ Beta 6 (Build 21G5302c) ist jetzt verfügbar!
 Du hast Feedback oder eine Idee für den Dienst?  
 Melde dich einfach direkt:  
 **Alex Gaming**  
-E-Mail: [support@alexgaming.de](mailto:team.alexgaming@icloud.com)
+E-Mail: [support@alexgaming.de](mailto:team.alexgaming@icloud.com)   
 Website: [alexgaming.de](https://github.com/alexgaming/)
 
 ## 🔐 Datenschutz  
